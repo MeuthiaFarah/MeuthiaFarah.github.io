@@ -1,2 +1,2 @@
 # MeuthiaFarah.github.io
-ini adalah repu pengumpulan UTS
+ini adalah repository pengumpulan UTS
